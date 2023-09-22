@@ -4,7 +4,7 @@ Using the Omeka S API in a custom PHP page.
 
 **This Week's Video**
 
-- 
+- <https://youtu.be/yS4V4KK3BUY>
 
 **Assignment**
 
